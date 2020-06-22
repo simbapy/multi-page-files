@@ -1,0 +1,1 @@
+The dataset explored in this notebook was downloaded from [kaggle](https://www.kaggle.com/carrie1/ecommerce-data).
